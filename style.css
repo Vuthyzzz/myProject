@@ -1,0 +1,1926 @@
+*{
+    padding: o;
+    margin: 0;
+
+}
+
+.box-round{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+
+}
+
+.bg{
+   height: 950px;
+   background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(picture/ccc.png) ;
+
+}
+
+.bg1{
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(picture/ccc.png);
+
+}
+.consol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    
+}
+
+.note{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 20px;
+
+}
+
+.panding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    
+    font-size: 70px;
+    position: relative;
+    right: 260px;
+
+}
+
+.sheep{
+    
+    color: rgb(255, 123, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+span{
+    color: rgb(248, 28, 237);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif 93;
+
+}
+
+.inputdata {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 400px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.value{
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Sithi Manuss ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 20px;
+    background-color: aquamarine;
+
+}
+
+
+
+.value:hover{
+    background-color: rgb(245, 173, 78);
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.3s;
+
+}
+
+.valuex{
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 25px;
+    font-family:  Sithi Manuss;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(186, 247, 46);
+
+}
+
+.valuex:hover{
+    background-color: rgb(252, 66, 221);
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.3s;
+
+}
+
+.cool{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+     
+}
+
+.box-item{
+    position: relative;
+    left: 100px;
+    
+}
+
+.content{
+    font-size: 45px;
+    position: relative;
+    left: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.need{
+    font-size: 45px;
+    position: relative;
+    
+}
+
+.keyword{
+    font-family:  Sithi Manuss;
+    font-size: 40px;
+
+}
+
+.boos{
+    
+    position: relative;
+    
+}
+
+.class-icon{
+    width: 900px;
+    height: 700px;
+    position: relative;
+    
+}
+.center{
+    width: 450px;
+    height: 100px;
+   
+}
+.very{
+    width: 450px;
+    height: 100px;
+    position: relative;
+    right: 400px;
+    bottom: 50px;
+
+}
+
+.place-box{
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-size: 40px;
+    font-family: Khmer OS Muol Light;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 40px;
+
+}
+
+.list-group{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    background-color: #85ffd6;
+    border-radius: 20px;
+
+}
+
+
+.list-group:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.tooltib{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+
+}
+.tooltibx{
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+
+}
+
+
+.model-center{
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    position: relative;
+    right: 10px;
+
+}
+
+
+
+
+.model-centerx{
+    font-size: 50px;
+    font-family: Sithi Manuss;
+    color: red;
+
+}
+
+.overly{
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+    background-color: #2950ff;
+    color: white;
+    position: relative;
+    right: 10px;
+
+}
+
+.overly:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+    width: 135px;
+    height: 45px;
+
+}
+
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+
+}
+
+.flex-mood{
+    font-size: 40px;
+    font-family: Khmer OS Muol Light;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 30px;
+
+}
+
+.flex-align{
+    width: 300px;
+    height: 320px;
+    border: 1px solid #089999;
+    margin: 50px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #d2ffff;
+
+}
+
+
+.flex-align:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+.solid-center{
+    font-size: 20px;
+    font-family: Khmer OS Muol Light;
+    color: red;
+    position: relative;
+    top: 10px;
+
+}
+
+
+.solid-centers{
+    font-size: 20px;
+    font-family: Khmer OS Muol Light;
+    position: relative;
+    top: 25px;
+    color: red;
+
+}
+
+.file-center{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    position: relative;
+    top: 10px;
+
+}
+
+.file-centers{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    position: relative;
+    top: 25px;
+
+}
+
+.teacher-box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+
+}
+
+.teacher-boxs{
+    width: 100px;
+    height: 80px;
+    position: relative;
+    top: 10px;
+
+}
+
+
+
+
+
+.btn-center{
+    
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   top: 60px;
+   
+}
+
+.btn-img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+
+
+.btn-mood{
+    width: 600px;
+    height: 420px;
+    border: none;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #ffdff4;
+    
+}
+
+.btn-moodx{
+    width: 500px;
+    height: 400px;
+    border: none;
+    text-align: center;
+    margin: 20px;
+    position: relative;
+    right: 100px;
+    
+}
+
+.btn-moodx:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.btn-border{
+    font-size: 25px;
+    font-family: Khmer OS Muol Light;
+
+}
+
+.btn-consol{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+}
+
+.change-about{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 20px;
+   
+}
+
+.aboutme a{
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: rgb(0, 140, 255);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+
+}
+
+
+.aboutme:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+.finally{
+    width: 100%;
+    height: 400px;
+    border: none;
+    background-color: #ffb5a2;
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.place-map{
+    font-size: 25px;
+    font-family: Khmer OS Muol Light;
+    text-align: center;
+    margin: auto;
+    color: rgb(12, 11, 11);
+}
+
+iframe{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.under{
+    font-size: 20px;
+
+}
+
+.map-border{
+    margin: 10px;
+    font-family: Sithi Manuss;
+    
+}
+
+.map-borderx{
+    margin: 20px;
+    font-family: Sithi Manuss;
+    position: relative;
+    left: 50px;
+    
+}
+
+.place-mapx{
+    font-size: 25px;
+    font-family: Khmer OS Muol Light;
+    text-align: center;
+    margin: auto;
+    color: rgb(12, 11, 11);
+    position: relative;
+    right: 50px;
+}
+
+.map-border i{
+    font-size: 40px;
+    margin: 5px;
+}
+
+.map-border :hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.3s;
+
+}
+
+
+.place-mapxz{
+    font-size: 25px;
+    font-family: Khmer OS Muol Light;
+    text-align: center;
+    margin: auto;
+    color: rgb(12, 11, 11);
+    position: relative;
+    right: 50px;
+    bottom: 20px;
+}
+
+
+
+/* note */
+
+.consolx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 10px;
+       
+}
+
+.over-hid{
+    background-color: rgb(255, 222, 222);
+    position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.project{
+    height: 770px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(picture/ccc.png);
+}
+
+.topnav {
+    width: 100%;
+  overflow: hidden;
+  
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ margin-top: 10px;
+
+
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  
+  color: #0a0a0a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  position: relative;
+}
+
+
+.active {
+  
+  color: rgb(7, 7, 7);
+}
+
+.word{
+    font-size: 25px;
+    font-family: Sithi Manuss;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  
+}
+
+.dropdown .dropbtn {
+  font-size: 25px;    
+  border: none;
+  outline: none;
+  color: rgb(10, 10, 10);
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: Sithi Manuss;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+ 
+  color: rgb(204, 8, 8);
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.topnav, .song{
+    display: flex;
+   
+    align-items: center;
+}
+
+.input-box{
+    width: 180px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 180px;
+}
+
+
+/* new */
+
+
+.inputdata-class i{
+    font-size: 40px;
+    margin: 15px;
+    position: relative;
+    left:450px;
+
+}
+
+.project-box{
+    position: relative;
+    top: 20px;
+    height: 850px;
+    background-image: url(picture/ccc.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+.box-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    position: relative;
+    font-family: Sithi Manuss;
+    right: 240px;
+}
+
+.simple-class{
+    
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 200px;
+    left: 600px;
+    
+}
+
+
+.data{
+    margin-right: 560px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+.first, .first1{
+    margin: 50px;
+    position: relative;
+    bottom: 30px;
+}
+.first, .showname{
+    width: 400px;
+    height: 30px;
+    margin: 20px;
+    padding: 20px;
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    border: 1px #f74009;
+    border-radius: 20px;
+}
+
+.first1, .showname:hover{
+    
+    transition: 0.22s;
+    width: 420px;
+    height: 35px;  
+}
+
+
+.showme{
+    width: 200px;
+    height: 60px;
+    
+    position: relative;
+    top: 450px;
+    border-radius: 30px;
+    border: none;
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    background-color: rgb(122, 224, 255);
+}
+.showme:hover{
+    color: white;
+    background-color: orange;
+    color: white;
+    transition: 0.5s;
+    width: 220px;
+    height: 65px;
+}
+
+.showme1{
+    width: 200px;
+    height: 60px;
+    position: relative;
+    top: 450px;
+    border-radius: 30px;
+    border: none;
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    background-color: rgb(122, 224, 255);
+}
+.showme1:hover{
+    background-color: orange;
+    color: #ffffff;
+    transition: 0.5s;
+    width: 220px;
+    height: 65px;
+}
+.dropcam{
+    margin-right: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.showme, .showme1{
+    margin: 20px;
+}
+
+
+/* Login form  */
+
+.file{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formcode{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    font-family: Sithi Manuss ;
+    position: relative;
+    top: 10px;
+}
+.future{
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-family:  Sithi Manuss;
+    position: relative;
+    top: 20px;
+}
+
+.gone{
+    
+    font-size: 30px;
+    font-family:  Sithi Manuss;
+    width: 350px;
+    height: 60px;
+    border: none;
+    background-color: azure;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 30px;
+    position: relative;
+    top: 50px;
+    background-color: #0ce7e7;
+}
+.gone:hover{
+    transition: 0.5s;
+    width: 370px;
+    height: 65px;
+}
+
+
+.project-boxing{
+    height: 850px;
+    background-image: url(picture/vv.png);
+    position: relative;
+    top: 20px;
+    margin:auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+}
+
+/* login */
+
+
+.textbox{
+    width: 600px;
+    height: 700px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+    
+    background-color: antiquewhite;
+    position: relative;
+    top: 10px;
+   
+}
+
+
+.continue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.formcodexx{
+    
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    margin-left: 500px;
+    font-family: Sithi Manuss ;
+    position: relative;
+    top: 10px;
+    
+    
+}
+
+
+.block-code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 300px;
+
+   
+}
+
+.past{
+    width: 500px;
+    height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif Manuss;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    font-size: 20px;
+    border-radius: 30px;
+    position: relative;
+    top: 50px;
+}
+
+
+.click1{
+    padding: 30px;
+    margin: 30px;
+    font-size: 25px;
+    position: relative;
+    top: 50px;
+    right: 145px;
+    font-family: Sithi Manuss;
+}
+
+
+.click{
+    padding: 30px;
+    margin: 30px;
+    font-size: 25px;
+    position: relative;
+    top: 50px;
+    right: 180px;
+    font-family: Sithi Manuss;
+}
+
+
+.verb{
+    position: relative;
+    top: 50px;
+    right: 150px;
+    font-size: 20px;
+    font-family:Sithi Manuss ;
+    color: #646464;
+}
+
+
+.freechat{
+    width: 200px;
+    height: 50px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    border-radius: 30px;
+    background-color: #2950ff;
+    font-size: 20px;
+    color: white;
+    font-family:  Sithi Manuss;
+
+
+}
+
+
+.freechat a{
+    color: white;
+}
+
+
+.note-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 120px;
+    color: #646464;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+.chack-icon{
+    font-size: 30px;
+    margin: 10px;
+    position: relative;
+    top: 120px;
+}
+
+
+.chack-icon:hover{
+    transition: 0.5s;
+   font-size: 40px;
+}
+
+.biger{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family:  Sithi Manuss;
+    position: relative;
+    top: 120px;
+}
+
+
+/* forget password */
+
+
+.change-class{
+    width: 600px;
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+    
+    background-color: rgb(108, 201, 255);
+    position: relative;
+    top: 120px;
+    
+}
+
+.forget-pw{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.icon-forget{
+    
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+
+
+.class-new{
+    font-size: 30px;
+    font-family: Sithi Manuss;
+    color: rgb(255, 63, 29);
+    position: relative;
+    top: 40px;
+}
+
+.ready{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    position: relative;
+    top: 70px;
+    
+}
+
+.boxing{
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    height: 10px;
+    position: relative;
+    top: 80px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 30px;
+    border: #14f0f0;
+
+}
+
+
+.couple-coded{
+    position: relative;
+    top: 80px;
+}
+
+.gread-classy {
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+    
+
+}
+
+
+.gread-classy:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: #09ddba;
+    
+   
+    
+}
+
+.gread-add:hover{
+    color: white;
+}
+
+
+.gread-classy{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+
+}
+
+
+.gread-classy:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color:#dd6809;
+    
+}
+.gread-add:hover{
+    color: white;
+}
+
+
+
+
+
+
+
+/* Sms in data */
+
+
+.change-classnew{
+    width: 600px;
+    height: 600px;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    margin: auto;
+    text-align: center;
+    
+    background-color: rgb(255, 191, 255);
+    position: relative;
+    top: 120px;
+    
+}
+
+.sms-chat{
+    width: 600px;
+    height: 600px;
+    position: relative;
+    right: 350px;
+    top: 100px;
+}
+
+.newclass-pw{
+    position: relative;
+    top: 55px;
+}
+
+.change-pws{
+    width: 370px;
+    height: 35px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border: none;
+
+}
+
+.change-pws:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+.posibale{
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    color: #042cdd;
+
+}
+
+.couple-code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 5px;
+   
+
+}
+
+.gread-class {
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+    
+
+}
+
+
+.gread-class:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: #0b0fff;
+    
+   
+    
+}
+
+.gread-a:hover{
+    color: white;
+}
+
+
+.gread-classx{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+
+}
+
+
+.gread-classx:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: #0b0fff;
+    
+}
+.gread-a:hover{
+    color: white;
+}
+
+
+
+
+/* class html gorup */
+
+.table-footer{
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-family: Khmer M1;
+    position: relative;
+    top: 50px;
+    color: red;
+
+}
+.table-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+
+}
+
+.table-border{
+    width: 300px;
+    height: 300px;
+    border: none;
+    margin: 20px;
+    text-align: center;
+    background-color: #ecf8e7;
+    border-radius: 20px;
+
+}
+
+.table-border:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.table-margin{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.table-marginx{
+    width: 120px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.table-marginz{
+    width: 170px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.table-marginc{
+    width: 120px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+
+}
+
+.table-margint{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    border-radius: 50%;
+
+}
+
+.table-engin{
+    font-size: 16px;
+    font-family:  Khmer OS Muol Light;
+
+}
+
+.table-row  {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    font-family: Sithi Manuss;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    border-radius: 15px;
+    border: none;
+    background-color: #07ffac;
+    color: black;
+    
+}
+
+
+.table-row:hover{
+    background-color: red;
+    color: white;
+
+}
+
+
+.table-rowx{
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    font-family: Sithi Manuss;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    background-color: #173aff;
+
+}
+
+.table-rowx:hover{
+    background-color: red;
+    color: white;
+
+}
+.table-color{
+    color: white;
+}
+.table-colorx{
+    color: black;
+}
+
+.table-colorx:hover{
+    background-color: red;
+    color: white;
+}
+
+/* information about school  */
+
+.find{
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-family: Khmer OS Muol Light;
+    color: rgb(76, 0, 255);
+
+
+}
+
+.find-iti{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    right: 400px;
+    
+}
+
+.find-img{
+    width: 200px;
+    height: 200px;
+
+
+}
+.find-box{
+    font-size: 25px;
+    font-family: Khmer OS Muol Light;
+    color: red;
+
+
+}
+
+.information-box{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+
+}
+
+
+.school-find, .div-find{
+    margin: 20px;
+    padding: 20px;
+
+}
+.information-box i{
+    margin: 10px;
+    padding: 0px;
+    color: #f7de06;
+
+}
+
+
+
+/* iti not code */
+
+.typed{
+    margin: auto;
+    text-align: center;
+    font-family: Khmer OS Muol Light;
+    position: relative;
+    top: 50px;
+
+
+}
+
+.type-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.type-iti{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+    
+}
+
+.type-login{
+    
+    text-align: center;
+    position: relative;
+    
+
+
+}
+
+
+.type-cool{
+    width: 300px;
+    height: 300px;
+    position: relative;
+   
+}
+
+
+
+
+.type-button{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #d2fc16;
+    font-family: Sithi Manuss;
+    margin: 10px;
+   
+
+}
+
+.type-button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+
+
+.type-buttonx{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: #ffa14a;
+    font-family: Sithi Manuss;
+    margin: 10px;
+
+
+}
+
+.type-buttonx:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+
+
+.type-boot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.type-class{
+    width: 300px;
+    height: 320px;
+    border: 1px solid rgb(255, 13, 33);
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+
+    
+}
+.type-class:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+
+
+.type-img{
+    width: 230px;
+    height: 230px;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+.type-fond{
+    font-size: 25px;
+    font-family: Sithi Manuss;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+/* data ITI */
+
+.fond-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 150px;
+
+
+}
+
+.fond-bar{
+    width: 800px;
+    height: 600px;
+    border: none;
+    border-radius: 30px;
+    background-color: #85ffd6;
+
+}
+
+.fond-word{
+    font-size: 30px;
+    font-family: Khmer OS Muol Light;
+    color: #2950ff;
+    text-align: center;
+    position: relative;
+    top: 30px;
+
+}
+
+.fond-img{
+    width: 700px;
+    height: 700px;
+
+}
+
+
+.fond{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 50px;
+
+}
+
+.fond-box{
+    margin: 10px;
+
+}
+
+.fond-namex{
+    font-size: 20px;
+    font-family: Sithi Manuss;
+
+}
+
+
+.fond-name{
+    width: 300px;
+    height: 20px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    border-radius: 20px;
+    border: none;
+    margin: 0px;
+    padding: 20px;
+
+}
+
+.fond-name:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+.fond-input{
+    width: 200px;
+    height: 50px;
+    background-color: #fff23d;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 20px;
+    
+
+}
+
+
+.fond-input:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: rgb(153, 255, 19);
+    color: white;
+
+}
+
+
+/*   box thank  */
+.next-boot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 250px;
+    
+}
+
+.next-item .protect{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.next-color{
+    font-size: 35px;
+    font-family:Sithi Manuss;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.next-button{
+    width: 190px;
+    height: 50px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    border-radius: 30px;
+    background-color: #646464;
+    color: white;
+    border: none;
+}
+
+.next-added{
+    color: white;    
+}
+
+.next-button:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: #ff6a07;
+
+}
+
+
+
+/* book html group */
+
+
+.book-st{
+    font-size: 40px;
+    font-family: Khmer OS Muol Light;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 50px;
+
+}
+
+.book-list{
+    width: 300px;
+    height: 330px;
+    border: none;
+    background-color: #baebeb;
+    border-radius: 30px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+
+}
+
+.book-list:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+
+.book-short{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+.book-button{
+    width:190px;
+    height: 50px;
+    margin: auto;
+    border: none;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: Sithi Manuss;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(153, 144, 150);
+    color: white;
+}
+
+.book-button:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: red;
+
+}
+
+.book-link{
+    color: white;
+}
+
+.book-perform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+
+
+/* book java  */
+
+.java-box{
+    background-color: #646464;
+}
+.java-class{
+    text-align: center;
+}
